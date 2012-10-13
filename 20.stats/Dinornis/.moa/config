@@ -1,5 +1,6 @@
 input: ../../10.download.ncbi/{{_}}/out.fasta
 jobid: Dinornis
 output: ./{{_}}.stats
+process: fastaInfo -i {{ input }} -g none -s > {{ output }}
 project: Moa test
 title: ''
