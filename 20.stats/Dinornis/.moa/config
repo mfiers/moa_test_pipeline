@@ -1,4 +1,5 @@
 input: ../../10.download.ncbi/{{_}}/out.fasta
 jobid: Dinornis
+output: ./{{_}}.stats
 project: Moa test
 title: ''
