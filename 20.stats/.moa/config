@@ -1,2 +1,4 @@
 jobid: stats
+project: Moa test
+source: ../10.download.ncbi/
 title: Run stats for all Moa sets
