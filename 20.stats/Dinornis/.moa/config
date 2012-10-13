@@ -3,4 +3,4 @@ jobid: Dinornis
 output: ./{{_}}.stats
 process: fastaInfo -i {{ input }} -g none -s > {{ output }}
 project: Moa test
-title: ''
+title: generate fasta stats for Moa {{_}}
