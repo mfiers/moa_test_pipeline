@@ -1,0 +1,3 @@
+jobid: download.ncbi
+query: txid8817[Organism:exp]
+title: download some Moa sequences from NCBI
