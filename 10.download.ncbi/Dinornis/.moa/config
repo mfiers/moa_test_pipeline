@@ -1,3 +1,4 @@
 jobid: download.ncbi
+project: Moa test
 query: txid8817[Organism:exp]
-title: download some Moa sequences from NCBI
+title: download some Moa {{_}} sequences from NCBI
